@@ -11,7 +11,8 @@ package javaapplication30;
  * @author hassane
  */
 public class JavaApplication30 {
-
+     // Pas d'attributs???
+     // Ni de méthodes?
     /**
      * @param args the command line arguments
      */
